@@ -11,7 +11,7 @@ export default {
   plugins: [
     skeleton({
       // NOTE: each theme included will increase the size of your CSS bundle
-      themes: [themes.rocket],
+      themes: [themes.vintage],
     }),
   ],
 };

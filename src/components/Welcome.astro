@@ -1,9 +1,8 @@
 ---
-const name = 'Internaut';
+import NavigationTopBar from "./Nav.svelte"
 ---
 
-<main class="p-10 space-y-4">
-  <h1 class="text-5xl">{name}</h1>
-  <p class="text-2xl">My Blog to the internet</p>
-  <a type="button" href="https://github.com/mahinkumar/Internaut" class="btn preset-filled">Star Github for updates</a>
+
+<main class="w-screen h-screen">
+  <NavigationTopBar client:only/>
 </main>
