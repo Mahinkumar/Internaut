@@ -1,0 +1,26 @@
+{
+  "site": {
+    "title": "Internaut",
+    "base_url": "https://internaut.mahinkumar.com",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logoLight": "/logoLight.png",
+    "logoDark": "/logoDark.png",
+    "lang": "en",
+    "description": "My blog to the Internet",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": false,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "Mahinkumar",
+    "meta_description": "Engineer and Student"
+  },
+  "author": {
+    "name": "Internaut",
+    "avatar": "https://avatars.githubusercontent.com/u/73975593",
+    "bio": "My blog to the Internet"
+  }
+}

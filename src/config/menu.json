@@ -1,0 +1,16 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Tags",
+      "url": "/tags"
+    },
+    {
+      "name": "Categories",
+      "url": "/categories"
+    }
+  ]
+}
